@@ -3,7 +3,7 @@
 
 new Promise((res, rej) => {
   setTimeout(() => {
-    console.log("Hi");
+    console.log("Hi this");
     res();
   }, 0);
 }).then(() => {
